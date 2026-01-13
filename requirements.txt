@@ -1,0 +1,3 @@
+# sagt was wofür ist
+discord.py
+python-dotenv
