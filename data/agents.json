@@ -1,0 +1,146 @@
+﻿[
+  //Duelisten
+  {
+    "name": "Iso",
+    "role": "Duelist",
+    "emoji": "🛡️"
+  },
+  {
+    "name": "Jett",
+    "role": "Duelist",
+    "emoji": "🌪️"
+  },
+  {
+    "name": "Neon",
+    "role": "Duelist",
+    "emoji": "👟"
+  },
+  {
+    "name": "Phoenix",
+    "role": "Duelist",
+    "emoji": "🔥"
+  },
+  {
+    "name": "Raze",
+    "role": "Duelist",
+    "emoji": "🚀"
+  },
+  {
+    "name": "Reyna",
+    "role": "Duelist",
+    "emoji": "🦇"
+  },
+  {
+    "name": "Waylay",
+    "role": "Duelist",
+    "emoji": "⌛"
+  },
+  {
+    "name": "Yoru",
+    "role": "Duelist",
+    "emoji": "🎭"
+  },
+  //Sentinel
+  {
+    "name": "Chamber",
+    "role": "Sentinel",
+    "emoji": "🎯"
+  },
+  {
+    "name": "Cypher",
+    "role": "Sentinel",
+    "emoji": "📸"
+  },
+  {
+    "name": "Deadlock",
+    "role": "Sentinel",
+    "emoji": "🌪️"
+  },
+  {
+    "name": "Killjoy",
+    "role": "Sentinel",
+    "emoji": "🔧"
+  },
+  {
+    "name": "Sage",
+    "role": "Sentinel",
+    "emoji": "🧊"
+  },
+  {
+    "name": "Veto",
+    "role": "Sentinel",
+    "emoji": "💧"
+  },
+  {
+    "name": "Vyse",
+    "role": "Sentinel",
+    "emoji": "🌹"
+  },
+  //Smoker
+  {
+    "name": "Astra",
+    "role": "Smoker",
+    "emoji": "✨"
+  },
+  {
+    "name": "Brimstone",
+    "role": "Smoker",
+    "emoji": "☕"
+  },
+  {
+    "name": "Clove",
+    "role": "Smoker",
+    "emoji": "🦋"
+  },
+  {
+    "name": "Harbor",
+    "role": "Smoker",
+    "emoji": "🌊"
+  },
+  {
+    "name": "Omen",
+    "role": "Smoker",
+    "emoji": "🌑"
+  },
+  {
+    "name": "Viper",
+    "role": "Smoker",
+    "emoji": "🐍"
+  },
+  //Initiator
+  {
+    "name": "Breach",
+    "role": "Initiator",
+    "emoji": "🌋"
+  },
+  {
+    "name": "Fade",
+    "role": "Initiator",
+    "emoji": "🐺"
+  },
+  {
+    "name": "Gekko",
+    "role": "Initiator",
+    "emoji": "🐸"
+  },
+  {
+    "name": "KAY/O",
+    "role": "Initiator",
+    "emoji": "🤖"
+  },
+  {
+    "name": "Skye",
+    "role": "Initiator",
+    "emoji": "🐦"
+  },
+  {
+    "name": "Sova",
+    "role": "Initiator",
+    "emoji": "⚡"
+  },
+  {
+    "name": "Tejo",
+    "role": "Initiator",
+    "emoji": "💥"
+  }
+]

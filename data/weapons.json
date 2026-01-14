@@ -1,0 +1,103 @@
+[
+  //Pistolen
+  {
+    "cost": 0,
+    "name": "Classic",
+    "category": "Pistole"
+  },
+  {
+    "cost": 300,
+    "name": "Shorty",
+    "category": "Pistole"
+  },
+  {
+    "cost": 450,
+    "name": "Frenzy",
+    "category": "Pistole"
+  },
+  {
+    "cost": 500,
+    "name": "Ghost",
+    "category": "Pistole"
+  },
+  {
+    "cost": 600,
+    "name": "Bandit",
+    "category": "Pistole"
+  },
+  {
+    "cost": 800,
+    "name": "Sheriff",
+    "category": "Pistole"
+  },
+  //MPS
+  {
+    "cost": 1100,
+    "name": "Stinger",
+    "category": "MP"
+  },
+  {
+    "cost": 1600,
+    "name": "Spectre",
+    "category": "MP"
+  },
+  //Shotguns
+  {
+    "cost": 850,
+    "name": "Bucky",
+    "category": "Shotgun"
+  },
+  {
+    "cost": 1850,
+    "name": "Judge",
+    "category": "Shotgun"
+  },
+  //Sturmgewehre
+  {
+    "cost": 2050,
+    "name": "Bulldog",
+    "category": "Sturmgewehr"
+  },
+  {
+    "cost": 2250,
+    "name": "Guardian",
+    "category": "Sturmgewehr"
+  },
+  {
+    "cost": 2900,
+    "name": "Phantom",
+    "category": "Sturmgewehr"
+  },
+  {
+    "cost": 2900,
+    "name": "Vandal",
+    "category": "Sturmgewehr"
+  },
+  //Sniper
+  {
+    "cost": 950,
+    "name": "Marshal",
+    "category": "Sniper"
+  },
+  {
+    "cost": 2400,
+    "name": "Outlaw",
+    "category": "Sniper"
+  },
+  {
+    "cost": 4700,
+    "name": "Operator",
+    "category": "Sniper"
+  },
+  //MGs
+  {
+    "cost": 1600,
+    "name": "Ares",
+    "category": "MG"
+  },
+  {
+    "cost": 3200,
+    "name": "Odin",
+    "category": "MG"
+  }
+]
