@@ -1,3 +1,20 @@
+# Visual Studio
 .vs/
+
+# Python cache
 __pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
 .env
+
+# Logs
+*.log
+
+# Datenordner, falls sensible Infos
+data/
+
+# Mac / Linux
+.DS_Store
